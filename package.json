@@ -1,0 +1,16 @@
+{
+  "name": "bamazon_manager.js",
+  "version": "1.0.0",
+  "description": "Bamazon command line storefront - manager viewing and control options.",
+  "main": "bamazon_manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bill Windsor",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  }
+}
